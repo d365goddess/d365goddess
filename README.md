@@ -6,7 +6,7 @@ Today I work as a Director at RSM US LLP. In my free time I write content for my
 ## Stay Connected
 
 <p>
-  <img width="200" alt="April Dunnam" align="left" src="https://raw.githubusercontent.com/d365goddess/main/main/DianPic.png">
+  <img width="200" alt="Dian Taylor" align="left" src="https://raw.githubusercontent.com/d365goddess/main/main/DianPic.png">
 </p>
 
 
