@@ -1,4 +1,4 @@
-![Dian Taylor, Presenter, YouTuber, LinkedIn Learning Author, Blogger](https://raw.githubusercontent.com/d365goddess/main/main/BannerDian.jpg)
+![Dian Taylor, Presenter, YouTuber, LinkedIn Learning Author, Blogger](https://raw.githubusercontent.com/d365goddess/d365goddess/main/BannerDian.jpg)
 
 Hello, I'm Dian Taylor!  I was born and raised in the Netherlands and I moved to the United States in early 2004. I have been working with Dynamics 365 since 2011. I also dabble in Power Virtual Agents, Power Automate and Power Apps whenever I get the chance!
 Today I work as a Director at RSM US LLP. In my free time I write content for my [website](https://d365goddess.com), create videos for my youtube channel, present at events and work on new LinkedIn Learning courses. I also have an adorable mini poodle named Tucker. 
@@ -6,7 +6,7 @@ Today I work as a Director at RSM US LLP. In my free time I write content for my
 ## Stay Connected
 
 <p>
-  <img width="200" alt="Dian Taylor" align="left" src="https://raw.githubusercontent.com/d365goddess/main/main/DianPic.png">
+  <img width="200" alt="Dian Taylor" align="left" src="https://raw.githubusercontent.com/d365goddess/d365goddess/main/DianPic.png">
 </p>
 
 
